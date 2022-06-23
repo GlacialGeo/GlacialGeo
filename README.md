@@ -3,7 +3,7 @@
 - 🌱 I keep learning about data science and I'm happy to share some of the python workflows I develop and use
 - 📫 How to reach me: maross@uwaterloo.ca
 - You can also find me on [YouTube](https://www.youtube.com/channel/UCIBhMXM_Ns7uQ9emOjh8UFw) and on [Twitter](https://twitter.com/StrataMRoss)
--  
+- [My website](https://www.earthstrata.org/) 
 
 <!---
 GlacialGeo/GlacialGeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
