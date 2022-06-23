@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Martin Ross. I'm specialized in glacial geology and a few related tihngs (e.g. Sedimentology, GIS, geochemistry)
+- 👋 Hi, I’m Martin Ross. I'm specialized in glacial geology and a few related things (e.g. Sedimentology, GIS, geochemistry)
 - 👀 I’m interested in codes and applications that help analyze geoscience data
 - 🌱 I keep learning about data science and I'm happy to share some of the python workflows I develop and use
 - 📫 How to reach me: maross@uwaterloo.ca
