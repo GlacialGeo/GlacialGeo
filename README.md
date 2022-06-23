@@ -2,7 +2,8 @@
 - 👀 I’m interested in codes and applications that help analyze geoscience data
 - 🌱 I keep learning about data science and I'm happy to share some of the python workflows I develop and use
 - 📫 How to reach me: maross@uwaterloo.ca
-- You can also find me on YouTube: https://www.youtube.com/channel/UCIBhMXM_Ns7uQ9emOjh8UFw
+- You can also find me on YouTube: 
+- [Link to YouTube](https://www.youtube.com/channel/UCIBhMXM_Ns7uQ9emOjh8UFw)
 - As well as on Twitter: @StrataMRoss 
 
 <!---
